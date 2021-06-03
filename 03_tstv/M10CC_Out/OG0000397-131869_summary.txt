@@ -1,0 +1,61 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 10:
+;
+;   Kumar S, Stecher G, Li M, Knyaz C, Tamura K
+;   MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms
+;   Molecular Biology and Evolution (2018) 35:1547-1549
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 10.2.4
+	Build                                   = 10210118-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = linux
+
+[General Info]
+
+	Data Type                               = nucleotide (non-coding)
+	No. of Taxa                             =       91
+	No. of Sites                            =     2343
+	Data File                               = 'OG0000397.fasta'
+	Settings File                           = '../ts2tv.mao'
+	Command Line                            = /home-user/xyfeng/database/megacc_linux/megacc -a ../ts2tv.mao -d filelist.txt
+
+[Analysis Settings]
+
+	Analysis                                = Distance Estimation
+	Scope                                   = Pairs of taxa
+	Variance Estimation Method              = None
+	No. of Bootstrap Replications           = Not Applicable
+	Substitutions Type                      = Nucleotide
+	Genetic Code Table                      = Not Applicable
+	Model/Method                            = Maximum Composite Likelihood
+	Fixed Transition/Transversion Ratio     = Not Applicable
+	Substitutions to Include                = R = s/v
+	Rates among Sites                       = Uniform rates
+	Gamma Parameter                         = Not Applicable
+	Pattern among Lineages                  = Same (Homogeneous)
+	Gaps/Missing Data Treatment             = Complete deletion
+	Site Coverage Cutoff (%)                = Not Applicable
+	Select Codon Positions                  = 1st, 2nd, 3rd, Non-Coding
+	datatype                                = snNucleotide
+	containsCodingNuc                       = True
+	missingBaseSymbol                       = ?
+	identicalBaseSymbol                     = .
+	gapSymbol                               = -
+
+[Analysis Statistics]
+
+	Start Time                              = 04/28/2021 12:43:32 PM
+	End Time                                = 04/28/2021 12:43:32 PM
+	Execution Time                          =    0.162 (seconds)
+	Max Heap Memory Used                    = 15.262 (MB)
+	Dist Compute Start Time                 = 12/30/1899
+	Dist Compute End Time                   = 12/30/1899
+	Dist Compute Run Time                   = 0.000

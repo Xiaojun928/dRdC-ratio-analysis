@@ -1,0 +1,138 @@
+Number of genes	215708
+Number of genes in orthogroups	208856
+Number of unassigned genes	6852
+Percentage of genes in orthogroups	96.8
+Percentage of unassigned genes	3.2
+Number of orthogroups	8800
+Number of species-specific orthogroups	18
+Number of genes in species-specific orthogroups	51
+Percentage of genes in species-specific orthogroups	0.0
+Mean orthogroup size	23.7
+Median orthogroup size	6.0
+G50 (assigned genes)	90
+G50 (all genes)	89
+O50 (assigned genes)	1099
+O50 (all genes)	1137
+Number of orthogroups with all species present	854
+Number of single-copy orthogroups	662
+Date	2021-04-27
+Orthogroups file	Orthogroups.csv
+Unassigned genes file	Orthogroups_UnassignedGenes.csv
+Per-species statistics	Statistics_PerSpecies.csv
+Overall statistics	Statistics_Overall.csv
+Orthogroups shared between species	Orthogroups_SpeciesOverlaps.csv
+
+Average number of genes per-species in orthogroup	Number of orthogroups	Percentage of orthogroups	Number of genes	Percentage of genes
+<1	7829	89.0	115896	55.5
+'1	960	10.9	90195	43.2
+'2	8	0.1	1600	0.8
+'3	0	0.0	0	0.0
+'4	3	0.0	1165	0.6
+'5	0	0.0	0	0.0
+'6	0	0.0	0	0.0
+'7	0	0.0	0	0.0
+'8	0	0.0	0	0.0
+'9	0	0.0	0	0.0
+'10	0	0.0	0	0.0
+11-15	0	0.0	0	0.0
+16-20	0	0.0	0	0.0
+21-50	0	0.0	0	0.0
+51-100	0	0.0	0	0.0
+101-150	0	0.0	0	0.0
+151-200	0	0.0	0	0.0
+201-500	0	0.0	0	0.0
+501-1000	0	0.0	0	0.0
+'1001+	0	0.0	0	0.0
+
+Number of species in orthogroup	Number of orthogroups
+1	18
+2	2440
+3	962
+4	527
+5	401
+6	397
+7	255
+8	213
+9	171
+10	161
+11	118
+12	126
+13	162
+14	93
+15	93
+16	54
+17	42
+18	43
+19	31
+20	46
+21	39
+22	34
+23	26
+24	37
+25	79
+26	32
+27	27
+28	34
+29	24
+30	26
+31	38
+32	22
+33	16
+34	22
+35	29
+36	17
+37	54
+38	22
+39	19
+40	9
+41	31
+42	18
+43	6
+44	29
+45	19
+46	14
+47	12
+48	36
+49	35
+50	82
+51	15
+52	11
+53	9
+54	8
+55	11
+56	12
+57	15
+58	16
+59	11
+60	8
+61	6
+62	8
+63	10
+64	16
+65	20
+66	32
+67	2
+68	8
+69	5
+70	4
+71	6
+72	7
+73	3
+74	4
+75	9
+76	12
+77	12
+78	12
+79	13
+80	5
+81	13
+82	10
+83	17
+84	23
+85	22
+86	18
+87	20
+88	34
+89	71
+90	167
+91	854
